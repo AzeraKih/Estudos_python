@@ -1,0 +1,4 @@
+Nome;idade;anime;cor do cabelo;altura
+MakiNishikino;15;Love Live!;Vermelho;161Cm
+Isla;;Plastic Memories;Rosa Claro;150Cm
+Sagiri izumi;13;Eromangua sensei;Branco;148Cm

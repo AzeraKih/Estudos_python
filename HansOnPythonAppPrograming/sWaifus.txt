@@ -1,0 +1,21 @@
+MakiNishikino{
+	 Nome: MakiNishikino:,
+	 idade: 15,
+	 anime: Love Live!,
+	 cor do cabelo: Vermelho,
+	 altura: 161Cm
+	},
+Isla{
+	 Nome: Isla:,
+	 idade: ,
+	 anime: Plastic Memories,
+	 cor do cabelo: Rosa Claro,
+	 altura: 150Cm
+	},
+Sagiri izumi{
+	 Nome: Sagiri izumi:,
+	 idade: 13,
+	 anime: Eromangua sensei,
+	 cor do cabelo: Branco,
+	 altura: 148Cm
+	}
